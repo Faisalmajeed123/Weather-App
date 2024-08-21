@@ -10,8 +10,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "axios": "^1.7.4",
+    "lodash": "^4.17.21",
+    "nativewind": "^2.0.11",
     "react": "18.3.1",
-    "react-native": "0.75.1"
+    "react-native": "0.75.1",
+    "react-native-vector-icons": "^10.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
@@ -28,6 +32,7 @@
     "jest": "^29.6.3",
     "prettier": "2.8.8",
     "react-test-renderer": "18.3.1",
+    "tailwindcss": "^3.3.2",
     "typescript": "5.0.4"
   },
   "engines": {
