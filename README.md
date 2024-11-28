@@ -13,9 +13,9 @@ The Weather App provides accurate, real-time weather updates for any location. G
 🚀 Getting Started  
 Clone the repo, install dependencies, and run the app:
 
-`git clone https://github.com/your-username/Weather-App.git`
-`cd Weather-App`
-`npm install`
+`git clone https://github.com/your-username/Weather-App.git`  
+`cd Weather-App`  
+`npm install`  
 `npm run start  `
 
 📧 Contact  
